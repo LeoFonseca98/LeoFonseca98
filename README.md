@@ -7,5 +7,5 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardo_fonseca.01/profilecard/?igsh=MW5rdWFhNHA3eHc4dA==)
 
 <div>
-[![Leonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoFonseca98)](https://github.com/LeoFonseca98/github-readme-stats)
+![Leonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoFonseca98)](https://github.com/LeoFonseca98/github-readme-stats)
 </div>
