@@ -6,8 +6,6 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-fonseca-54596a216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardo_fonseca.01/profilecard/?igsh=MW5rdWFhNHA3eHc4dA==)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoFonseca98&show_icons=true&theme=highcontrast)<br/>
-
 ## Tecnologias
 <div style="display: inline_block align: center">
     <img alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
