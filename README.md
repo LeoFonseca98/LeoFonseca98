@@ -31,12 +31,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
-![Leonardo GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoFonseca98&show_icons=true&theme=tokyonight)  
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoFonseca98&layout=compact&theme=tokyonight)  
-
----
-
 ## 📌 Sobre mim  
 - 🎯 Foco em **desenvolvimento backend** usando Python e Django;  
 - 📚 Estudando arquitetura de APIs REST, boas práticas e escalabilidade;  
